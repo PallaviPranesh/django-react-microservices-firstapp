@@ -1,0 +1,3 @@
+[submodule "posts-microservices-frontend"]
+    path = posts-microservices-frontend
+    url = "https://github.com/PallaviPranesh/django-react-microservices-firstapp.git"
